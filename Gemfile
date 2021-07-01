@@ -42,8 +42,9 @@ gem 'sidekiq'
 gem 'sprockets'
 # gem 'therubyracer', platforms: :ruby
 gem 'turbolinks'
-gem 'twitter-bootstrap-rails'
+# gem 'twitter-bootstrap-rails'
 gem 'uglifier'
+gem 'bootstrap', '~> 5.0.1'
 gem 'figaro'
 
 group :development do
