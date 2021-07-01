@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-set :application, 't4c'
+set :application, 'kuruwan'
 set :repo_url, 'git@github.com:kuruwandotcom/kuruwan.git'
 
 # ask :branch, proc { `git rev-parse --abbrev-ref HEAD`.chomp }
@@ -8,7 +8,7 @@ set :repo_url, 'git@github.com:kuruwandotcom/kuruwan.git'
 set :deploy_to, '/home/apps/t4c'
 
 set :rvm_type, :user
-set :rvm_ruby_version, '2.6.6'
+set :rvm_ruby_version, '3.0.0'
 set :rvm_custom_path, '~/.rvm'
 
 set :format, :pretty
