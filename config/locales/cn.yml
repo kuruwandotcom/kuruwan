@@ -1,5 +1,5 @@
 cn:
-  tip4commit: Tip4Commit
+  kuruwan: kuruwan
   meta:
     title: 为开源做贡献
     description: 给开源项目捐献比特币或者通过提交代码获得打赏。
@@ -10,7 +10,7 @@ cn:
     text: "您可以在 %{github_link} 查看源代码，或者 %{support_link} 这个项目的开发."
     github_link: GitHub
     support_link: 支持
-    follow_link: 关注 @tip4commit
+    follow_link: 关注 kuruwandotcom
   links:
     sign_up: 注册
     sign_in: 登录
@@ -228,6 +228,6 @@ cn:
   general:
     or: 或者
     disclaimer:
-      line1: "Tip4Commit 不隶属于大多数项目。"
+      line1: "kuruwan 不隶属于大多数项目。"
       line2: "不保证开发人员将接受打赏。"
-      line3: "捐赠即代表您同意这些金额可以被发送给共享软件联盟或其他Tip4Commit裁定的地方。"
+      line3: "捐赠即代表您同意这些金额可以被发送给共享软件联盟或其他kuruwan裁定的地方。"

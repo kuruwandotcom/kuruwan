@@ -1,5 +1,5 @@
 pt:
-  tip4commit: Tip4Commit
+  kuruwan: kuruwan
   meta:
     title: Colabora para Código Aberto
     description: Doa bitcoins para projetos de código aberto ou faça commits e receba gorjetas por eles.
@@ -10,7 +10,7 @@ pt:
     text: "Código fonte está disponível em %{github_link} e também pode %{support_link} o seu desenvolvimento."
     github_link: GitHub
     support_link: suporte
-    follow_link: Siga @tip4commit
+    follow_link: Siga kuruwandotcom
   links:
     sign_up: Registar
     sign_in: Entrar
@@ -228,6 +228,6 @@ pt:
   general:
     or: ou
     disclaimer:
-      line1: "Tip4Commit não está afiliado com a maior parte dos projetos."
+      line1: "kuruwan não está afiliado com a maior parte dos projetos."
       line2: "Não há garantia que as gorjetas serão reclamados pelos colaboradores."
-      line3: "Ao doar os fundos concorda que poderão ser enviados para a Free Software Foundation ou para qualquer outro lado ao critério da Tip4Commit."
+      line3: "Ao doar os fundos concorda que poderão ser enviados para a Free Software Foundation ou para qualquer outro lado ao critério da kuruwan."

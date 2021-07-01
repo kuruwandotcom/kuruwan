@@ -1,5 +1,5 @@
 nl:
-  tip4commit: Tip4Commit
+  kuruwan: kuruwan
   meta:
     title: Bijdragen aan Open Source
     description: Doneer bitcoins aan open source projecten of commit en krijg er een beloning voor.
@@ -10,7 +10,7 @@ nl:
     text: "Broncode is beschikbaar op %{github_link} en ook jij kunt %{support_link} aan de ontwikkeling."
     github_link: GitHub
     support_link: bijdragen
-    follow_link: Follow @tip4commit
+    follow_link: Follow kuruwandotcom
   links:
     sign_up: Registreren
     sign_in: Inloggen
@@ -228,6 +228,6 @@ nl:
   general:
     or: of
     disclaimer:
-      line1: "We zijn niet gerelateerd aan de meeste van de projecten, haar eigenaren zijn zich misschien niet bewust van of actief tegen het gebruik van tip4commit. Door moegenlijke etische en wettelijke problemen moeten we misschien enkele van de projecten uit de lijst wissen (op wens van de prohect eigenaar)."
+      line1: "We zijn niet gerelateerd aan de meeste van de projecten, haar eigenaren zijn zich misschien niet bewust van of actief tegen het gebruik van kuruwan. Door moegenlijke etische en wettelijke problemen moeten we misschien enkele van de projecten uit de lijst wissen (op wens van de prohect eigenaar)."
       line2: "Ook sturen we geen melding meer aan de ontwikkelaars. Dus we kunnen niet garanteren dat de donaties ze bereiken."
-      line3: "Door het doneren van geld gaat u ermee akkoord dat ze naar Free Software Foundation of elders naar Tip4Commit's keuze."
+      line3: "Door het doneren van geld gaat u ermee akkoord dat ze naar Free Software Foundation of elders naar kuruwan's keuze."

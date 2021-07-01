@@ -1,5 +1,5 @@
 hk:
-  tip4commit: Tip4Commit
+  kuruwan: kuruwan
   meta:
     title: 為開源做貢獻
     description: 給開源項目捐獻比特幣或者通過提交代碼獲得打賞。
@@ -10,7 +10,7 @@ hk:
     text: "您可以在 %{github_link} 查看源代碼，或者 %{support_link} 這個項目的開發."
     github_link: GitHub
     support_link: 支持
-    follow_link: 關註 @tip4commit
+    follow_link: 關註 kuruwandotcom
   links:
     sign_up: 註冊
     sign_in: 登錄
@@ -228,6 +228,6 @@ hk:
   general:
     or: 或者
     disclaimer:
-      line1: "Tip4Commit 不隸屬於大多數項目。"
+      line1: "kuruwan 不隸屬於大多數項目。"
       line2: "不保證開發人員將接受打賞。"
-      line3: "捐贈即代表您同意這些金額可以被發送給共享軟件聯盟或其他Tip4Commit裁定的地方。"
+      line3: "捐贈即代表您同意這些金額可以被發送給共享軟件聯盟或其他kuruwan裁定的地方。"

@@ -1,5 +1,5 @@
 es:
-  tip4commit: Tip4Commit
+  kuruwan: kuruwan
   meta:
     title: Contribuye a código abierto
     description: Dona Bitcoins a proyectos de código abierto o haz commits y recibe propinas por ellos.
@@ -10,7 +10,7 @@ es:
     text: "El código fuente está disponible en %{github_link} y también puedes %{support_link} su desarollo."
     github_link: GitHub
     support_link: apoyar
-    follow_link: S¡guenos en @tip4commit
+    follow_link: S¡guenos en kuruwandotcom
   links:
     sign_up: registrar
     sign_in: inicia sesión
@@ -228,6 +228,6 @@ es:
   general:
     or: O
     disclaimer:
-      line1: "Tip4Commit no está asociado con la mayor¡a de los proyectos."
+      line1: "kuruwan no está asociado con la mayor¡a de los proyectos."
       line2: "No hay ninguna garant¡a que las propinas sean reclamadas por los desarrolladores."
       line3: "Al donar fondos, usted esta de acuerdo que los fondos podrán ser enviados a la fundación de software gratuito (Free Software Foundation) o a otra parte a nuestra discreción."

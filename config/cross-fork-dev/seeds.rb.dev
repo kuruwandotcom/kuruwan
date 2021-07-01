@@ -1,6 +1,6 @@
 # get repo ids like:
-#     https://api.github.com/repos/tip4commit/tip4commit
+#     https://api.github.com/repos/kuruwandotcom/kuruwan
 
 Project.create :host      => 'github' ,
-               :full_name => 'tip4commit/tip4commit' ,
+               :full_name => 'kuruwandotcom/kuruwan' ,
                :github_id => 15898794

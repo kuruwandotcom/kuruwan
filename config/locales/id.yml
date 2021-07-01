@@ -1,5 +1,5 @@
 id:
-  tip4commit: Tip4Commit
+  kuruwan: kuruwan
   meta:
     title: Kontribusi ke Open Source
     description: Donasi bitcoin untuk proyek Open Source atau commit perubahan dan dapatkan tips.
@@ -10,7 +10,7 @@ id:
     text: "Source code bisa dicek di %{github_link} dan proyek juga dapat cek di- %{support_link}."
     github_link: GitHub
     support_link: support
-    follow_link: Follow @tip4commit
+    follow_link: Follow kuruwandotcom
   links:
     sign_up: Daftar
     sign_in: Masuk
@@ -228,6 +228,6 @@ id:
   general:
     or: atau
     disclaimer:
-      line1: "Tip4Commit tidak berafiliasi dengan sebagian besar proyek."
+      line1: "kuruwan tidak berafiliasi dengan sebagian besar proyek."
       line2: "Tidak ada jaminan bahwa tip akan diklaim oleh pengembang."
-      line3: "Dengan menyumbangkan dana, Anda setuju bahwa mereka dapat dikirim ke Free Software Fondattion  atau tempat lain dengan kebijakan Tip4Commit."
+      line3: "Dengan menyumbangkan dana, Anda setuju bahwa mereka dapat dikirim ke Free Software Fondattion  atau tempat lain dengan kebijakan kuruwan."

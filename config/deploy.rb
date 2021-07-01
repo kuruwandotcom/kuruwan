@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 set :application, 't4c'
-set :repo_url, 'git@github.com:tip4commit/tip4commit.git'
+set :repo_url, 'git@github.com:kuruwandotcom/kuruwan.git'
 
 # ask :branch, proc { `git rev-parse --abbrev-ref HEAD`.chomp }
 

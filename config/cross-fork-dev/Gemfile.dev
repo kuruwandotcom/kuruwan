@@ -35,7 +35,7 @@ gem 'octokit',         '~> 2.7.0'
 gem 'sawyer',          '~> 0.5.2'
 gem 'twitter_bootstrap_form_for', github: 'stouset/twitter_bootstrap_form_for'
 gem 'twitter-bootstrap-rails',    github: 'seyhunak/twitter-bootstrap-rails', branch: 'bootstrap3'
-# sigmike 'bootstrap_form' bugfix added in https://github.com/tip4commit/tip4commit/pull/74
+# sigmike 'bootstrap_form' bugfix added in https://github.com/kuruwandotcom/kuruwan/pull/74
 #   has been merged upstream https://github.com/bootstrap-ruby/rails-bootstrap-forms/pull/76
 #gem 'bootstrap_form', github: 'sigmike/rails-bootstrap-forms', branch: 'removed_for_on_radio_label'
 gem 'bootstrap_form', github: 'bootstrap-ruby/rails-bootstrap-forms'

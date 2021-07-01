@@ -347,7 +347,7 @@ I18n.translations = {
         "onmiauth_info": "we were unable to fetch your information."
       }
     },
-    "tip4commit": "Tip4Commit",
+    "kuruwan": "kuruwan",
     "meta": {
       "title": "Contribute to Open Source",
       "description": "Donate bitcoins to open source projects or make commits and get tips for it."
@@ -360,7 +360,7 @@ I18n.translations = {
       "text": "Source code is available at %{github_link} and you can also %{support_link} its development.",
       "github_link": "GitHub",
       "support_link": "support",
-      "follow_link": "Follow @tip4commit"
+      "follow_link": "Follow kuruwandotcom"
     },
     "links": {
       "sign_in": "Sign in",

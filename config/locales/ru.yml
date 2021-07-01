@@ -1,5 +1,5 @@
 ru:
-  tip4commit: Tip4Commit
+  kuruwan: kuruwan
   meta:
     title: Помощь open-source проектам
     description: Жертвуйте биткоины проектам с открытым исходным кодом или создавайте коммиты и получайте вознаграждение за них.
@@ -10,7 +10,7 @@ ru:
     text: "Исходный код доступен на %{github_link}. Также вы можете %{support_link} разработку проекта."
     github_link: GitHub
     support_link: поддержать
-    follow_link: Следите за @tip4commit
+    follow_link: Следите за kuruwandotcom
   links:
     sign_up: Зарегистрироваться
     sign_in: Войти
@@ -236,7 +236,7 @@ ru:
   general:
     or: или
     disclaimer:
-      line1: "Tip4Commit не аффилирован с большинством проектов."
+      line1: "kuruwan не аффилирован с большинством проектов."
       line2: "Нет гарантии, что чаевые будут востребованы разработчиками."
-      line3: "Жертвованием своих средств Вы соглашаетесь, что они могут быть отправлены Free Software Foundation или куда-либо ещё на усмотрение Tip4Commit."
+      line3: "Жертвованием своих средств Вы соглашаетесь, что они могут быть отправлены Free Software Foundation или куда-либо ещё на усмотрение kuruwan."
  
