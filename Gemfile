@@ -2,9 +2,9 @@
 
 source 'https://rubygems.org'
 
-ruby '2.6.6'
+ruby '3.0.0'
 
-gem 'rails', '5.2.4.4'
+gem 'rails'
 
 gem 'acts_as_paranoid'
 gem 'airbrake'
@@ -31,7 +31,7 @@ gem 'mysql2', group: :production
 gem 'octokit'
 gem 'omniauth'
 gem 'omniauth-github'
-gem 'omniauth-rails_csrf_protection', '~> 0.1'
+gem 'omniauth-rails_csrf_protection'
 gem 'rails-i18n'
 gem 'render_csv'
 gem 'rest-client'
@@ -40,10 +40,11 @@ gem 'sawyer'
 gem 'sdoc', group: :doc, require: false
 gem 'sidekiq'
 gem 'sprockets'
-gem 'therubyracer', platforms: :ruby
+# gem 'therubyracer', platforms: :ruby
 gem 'turbolinks'
 gem 'twitter-bootstrap-rails'
 gem 'uglifier'
+gem 'figaro'
 
 group :development do
   gem 'capistrano'
@@ -67,7 +68,7 @@ group :development, :test do
 end
 
 group :test do
-  gem 'cucumber-rails', '~> 1.0', require: false
+  gem 'cucumber-rails', require: false
   gem 'database_cleaner'
   gem 'rails-controller-testing'
   gem 'rspec-activemodel-mocks'
