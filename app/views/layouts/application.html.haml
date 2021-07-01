@@ -7,7 +7,7 @@
     %meta{content: "", name: "author"}/
     %link{href: "/favicon.png", rel: "shortcut icon"}/
 
-    %title= t('tip4commit') + " — " + (content_for?(:title) ? yield(:title) : " " + t('meta.title'))
+    %title= t('kuruwan') + " — " + (content_for?(:title) ? yield(:title) : " " + t('meta.title'))
 
     %meta{name: 'description', content: (content_for?(:description) ? yield(:description) : t('meta.description'))}
     %meta{name: 'keywords', content: 'open source,contribute,github,community,git,bitcoin,tips,perks'}
@@ -28,7 +28,7 @@
       m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
       })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-      ga('create', 'UA-1115214-16', 'tip4commit.com');
+      ga('create', 'U277792538', 'kuruwan.com');
       ga('send', 'pageview');
     .container
       .masthead
@@ -51,7 +51,7 @@
               - if controller_name != 'sessions'
                 = link_to t('links.sign_in'), new_user_session_path
 
-        %h3.text-muted.code-pro= t('tip4commit')
+        %h3.text-muted.code-pro= t('kuruwan')
 
         = render 'common/menu'
 
@@ -70,7 +70,7 @@
             = link_to image_tag("flags/#{locale}.png"), "?locale=#{locale}", data: {no_turbolink: true}
         %p
           ©
-          = link_to t('tip4commit'), 'http://tip4commit.com/', target: '_blank'
-          2013-#{Date.today.year}.
-          = raw t('footer.text', github_link: link_to(t('footer.github_link'), 'https://github.com/tip4commit/tip4commit', target: '_blank'), support_link: link_to(t('footer.support_link'), 'http://tip4commit.com/projects/307'))
-          = link_to t('footer.follow_link'), 'https://twitter.com/tip4commit', target: '_blank'
+          = link_to t('kuruwan'), 'http://kuruwan.com/', target: '_blank'
+          #{Date.today.year}.
+          = raw t('footer.text', github_link: link_to(t('footer.github_link'), 'https://github.com/kuruwandotcom/kuruwan', target: '_blank'), support_link: link_to(t('footer.support_link'), 'http://kuruwan.com/projects/1'))
+          = link_to t('footer.follow_link'), 'https://twitter.com/kuruwandotcom', target: '_blank'

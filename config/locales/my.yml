@@ -1,5 +1,5 @@
 my:
-  tip4commit: Tip4Commit
+  kuruwan: kuruwan
   meta:
     title: Menyumbang kepada Open Source
     description: Dermakan bitcoin untuk projek Open Source atau buat komit dan dapatkan tip untuk itu.
@@ -10,7 +10,7 @@ my:
     text: "Source code boleh didapati di %{github_link} dan anda juga boleh %{support_link} pembangunannya."
     github_link: GitHub
     support_link: sokongan
-    follow_link: Ikuti @tip4commit
+    follow_link: Ikuti kuruwandotcom
   links:
     sign_up: Daftar
     sign_in: Masuk
@@ -228,6 +228,6 @@ my:
   general:
     or: atau
     disclaimer:
-      line1: "Tip4Commit tidak bergabung dengan kebanyakan projek."
+      line1: "kuruwan tidak bergabung dengan kebanyakan projek."
       line2: "Tidak ada jaminan bahawa tip akan dituntut oleh developer."
-      line3: "Dengan menderma dana anda bersetuju bahawa mereka boleh dihantar ke Free Software Foundation atau ke tempat lain atas kebijaksanaan Tip4Commit's."
+      line3: "Dengan menderma dana anda bersetuju bahawa mereka boleh dihantar ke Free Software Foundation atau ke tempat lain atas kebijaksanaan kuruwan's."

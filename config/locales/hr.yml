@@ -1,5 +1,5 @@
 hr:
-  tip4commit: Tip4Commit
+  kuruwan: kuruwan
   meta:
     title: Doprinesite otvorenom kodu
     description: Donirajte bitcoine projektima otvorenog koda ili napravite promjene i zaradite napojnice.
@@ -10,7 +10,7 @@ hr:
     text: "Izvorni kod je dostupan na %{github_link}u a možete i %{support_link} razvoj."
     github_link: GitHub
     support_link: podržati
-    follow_link: Prati @tip4commit
+    follow_link: Prati kuruwandotcom
   links:
     sign_up: Registracija
     sign_in: Prijava

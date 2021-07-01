@@ -1,5 +1,5 @@
 ko:
-  tip4commit: Tip4Commit
+  kuruwan: kuruwan
   meta:
     title: 오픈소스 기여하기
     description: 오픈소스 프로젝트에 비트코인을 기부하거나 직접 커밋하여 팁을 받으세요.
@@ -10,7 +10,7 @@ ko:
     text: "소스 코드는 %{github_link}에 있으며, 그의 개발에 %{support_link}할 수 있습니다."
     github_link: GitHub
     support_link: 기여
-    follow_link: \@tip4commit 팔로우
+    follow_link: \kuruwandotcom 팔로우
   links:
     sign_up: 회원가입
     sign_in: 로그인
@@ -230,6 +230,6 @@ ko:
   general:
     or: 또는
     disclaimer:
-      line1: "Tip4Commit은 대부분의 프로젝트에 해당되지 않습니다."
+      line1: "kuruwan은 대부분의 프로젝트에 해당되지 않습니다."
       line2: "개발자에 의해 팁이 지급될 것이라고 보장하지 못합니다."
-      line3: "당신이 돈을 기부함으로써, 당신은 그 돈이 Free Software Foundation이나 Tip4Commit에 사용될 수 있음에 동의하게 됩니다."
+      line3: "당신이 돈을 기부함으로써, 당신은 그 돈이 Free Software Foundation이나 kuruwan에 사용될 수 있음에 동의하게 됩니다."

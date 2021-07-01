@@ -1,5 +1,5 @@
 pl:
-  tip4commit: Tip4Commit
+  kuruwan: kuruwan
   meta:
     title: Wspieraj Open Source
     description: Podaruj Bitcoiny na projekty Open Source lub współpracuj tworząc nowe commity i otrzymuj napiwki.
@@ -10,7 +10,7 @@ pl:
     text: "Kod źródłowy dostępny jest na %{github_link} możesz także %{support_link} jego rozwój."
     github_link: GitHub
     support_link: wesprzeć
-    follow_link: Obserwuj @tip4commit
+    follow_link: Obserwuj kuruwandotcom
   links:
     sign_up: Rejestracja
     sign_in: Zaloguj się

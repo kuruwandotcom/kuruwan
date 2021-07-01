@@ -1,5 +1,5 @@
 ro:
-  tip4commit: Tip4Commit
+  kuruwan: kuruwan
   meta:
     title: Contribuie la Open Source
     description: Donează bitcoin la proiecte open source sau fă commit-uri și primești ciubuc.
@@ -10,7 +10,7 @@ ro:
     text: "Codul sursa este aici %{github_link} și poți ajuta %{support_link} development-ul."
     github_link: GitHub
     support_link: support
-    follow_link: Urmărește @tip4commit
+    follow_link: Urmărește kuruwandotcom
   links:
     sign_up: Înscriere
     sign_in: Conectare
@@ -228,6 +228,6 @@ ro:
   general:
     or: sau
     disclaimer:
-      line1: "Tip4Commit nu este afiliat cu majoritatea proiectelor."
+      line1: "kuruwan nu este afiliat cu majoritatea proiectelor."
       line2: "Nu există nici o garanție că ciubucurile vor fi luate de developeri"
-      line3: "Prin donarea fondurilor sunteți de acord că acestea pot fi trimise la Free Software Foundation sau în altă parte, la discreția Tip4Commit"
+      line3: "Prin donarea fondurilor sunteți de acord că acestea pot fi trimise la Free Software Foundation sau în altă parte, la discreția kuruwan"

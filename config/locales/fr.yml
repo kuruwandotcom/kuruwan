@@ -1,5 +1,5 @@
 fr:
-  tip4commit: Tip4Commit
+  kuruwan: kuruwan
   meta:
     title: Contribuez aux logiciels libres
     description: Faites don de bitcoins à des projets open source ou contribuez et recevez des pourboires.
@@ -10,7 +10,7 @@ fr:
     text: "Code source disponible sur %{github_link} et vous pouvez également %{support_link} son développement."
     github_link: GitHub
     support_link: subventionner
-    follow_link: Suivez @tip4commit
+    follow_link: Suivez kuruwandotcom
   links:
     sign_up: Créer un compte
     sign_in: Se connecter
@@ -228,6 +228,6 @@ fr:
   general:
     or: ou
     disclaimer:
-      line1: "Tip4Commit n'est pas affilié avec la plupart des projets."
+      line1: "kuruwan n'est pas affilié avec la plupart des projets."
       line2: "Il n'y a aucune garantie que les pourboires seront réclamés par les dévelopeurs."
-      line3: "En donnant des fonds vous acceptez qu'ils puissent être envoyés à la Free Software Foundation ou ailleurs, à la discrétion de Tip4Commit."
+      line3: "En donnant des fonds vous acceptez qu'ils puissent être envoyés à la Free Software Foundation ou ailleurs, à la discrétion de kuruwan."

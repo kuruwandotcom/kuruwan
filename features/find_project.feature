@@ -3,15 +3,15 @@ Feature: Visitors may search for and add projects
 
 
   Scenario: Visitors may find existing projects
-    Given a "github" project named "tip4commit/tip4commit" exists
+    Given a "github" project named "kuruwandotcom/kuruwan" exists
     And   I visit the "projects" page
     Then  I should be on the "projects" page
-    And   I should see "tip4commit/tip4commit"
+    And   I should see "kuruwandotcom/kuruwan"
 
-    When  I fill "query" with: "tip4commit/tip4commit"
+    When  I fill "query" with: "kuruwandotcom/kuruwan"
     And   I click "Find project"
-    Then  I should be on the "tip4commit/tip4commit github-project" page
-    And   I should see "tip4commit/tip4commit"
+    Then  I should be on the "kuruwandotcom/kuruwan github-project" page
+    And   I should see "kuruwandotcom/kuruwan"
     But   I should not see "Project not found"
 
   Scenario: Visitors may not find non-existing projects
@@ -26,11 +26,11 @@ Feature: Visitors may search for and add projects
   Scenario: Visitors may not add new projects
     Given I visit the "projects" page
     Then  I should be on the "projects" page
-    When  I fill "query" with: "https://github.com/tip4commit/tip4commit"
+    When  I fill "query" with: "https://github.com/kuruwandotcom/kuruwan"
     And   I click "Find project"
     Then  I should be on the "search" page
     And   I should see "Project not found"
-    But   I should not see "tip4commit/tip4commit"
+    But   I should not see "kuruwandotcom/kuruwan"
 
   Scenario: Projects with individual owner should not show project avatar
     Given a "github" project named "seldon/seldons-project" exists
@@ -46,13 +46,13 @@ Feature: Visitors may search for and add projects
 
   @vcr-ignore-params
   Scenario: Projects owned by an organization should show project avatar
-    Given a "real-github" project named "tip4commit/tip4commit" exists
+    Given a "real-github" project named "kuruwandotcom/kuruwan" exists
     And   I visit the "projects" page
     Then  I should be on the "projects" page
-    And   I should see "tip4commit/tip4commit"
+    And   I should see "kuruwandotcom/kuruwan"
     And   there should be a project avatar image visible
 
-    When  I visit the "tip4commit/tip4commit github-project" page
-    Then  I should be on the "tip4commit/tip4commit github-project" page
-    And   I should see "tip4commit/tip4commit"
+    When  I visit the "kuruwandotcom/kuruwan github-project" page
+    Then  I should be on the "kuruwandotcom/kuruwan github-project" page
+    And   I should see "kuruwandotcom/kuruwan"
     And   there should be a project avatar image visible

@@ -1,5 +1,5 @@
 de:
-  tip4commit: Tip4Commit
+  kuruwan: kuruwan
   meta:
     title: Tragen Sie zu Open-Source-Projekten bei
     description: Spenden Sie bitcoins an Projekte die Sie interessieren oder fügen Sie commits hinzu um Trinkgelder zu erhalten
@@ -10,7 +10,7 @@ de:
     text: "Der Quellcode dieser Anwendung ist auf %{github_link} Verfügbar und Sie können die Entwicklung %{support_link}."
     github_link: GitHub
     support_link: unterstützen
-    follow_link: Folgen Sie @tip4commit
+    follow_link: Folgen Sie kuruwandotcom
   links:
     sign_up: Registrieren
     sign_in: Anmelden
@@ -228,6 +228,6 @@ de:
   general:
     or: or
     disclaimer:
-      line1: "Tip4Commit ist mit den meisten Projekten in keiner Weise verbunden."
+      line1: "kuruwan ist mit den meisten Projekten in keiner Weise verbunden."
       line2: "Es gibt keine Garantie, dass Entwickler Trinkgelder erhalten werden."
       line3: "Durch Spenden akzeptieren Sie, dass ihre Spenden nach Belieben an die Free Software Foundation oder sonstige weitergeleitet werden können."

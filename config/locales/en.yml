@@ -1,5 +1,5 @@
 en:
-  tip4commit: Tip4Commit
+  kuruwan: kuruwan
   meta:
     title: Contribute to Open Source
     description: Donate bitcoins to open source projects or make commits and get tips for it.
@@ -10,7 +10,7 @@ en:
     text: "Source code is available at %{github_link} and you can also %{support_link} its development."
     github_link: GitHub
     support_link: support
-    follow_link: Follow @tip4commit
+    follow_link: Follow kuruwandotcom
   links:
     sign_up: Sign up
     sign_in: Sign in
@@ -233,6 +233,6 @@ en:
   general:
     or: or
     disclaimer:
-      line1: "Tip4Commit is not affiliated with most of the projects."
+      line1: "kuruwan is not affiliated with most of the projects."
       line2: "There is no guarantee that tips will be claimed by developers."
-      line3: "By donating the funds you agree that they can be sent to the Free Software Foundation or elsewhere at Tip4Commit's discretion."
+      line3: "By donating the funds you agree that they can be sent to the Free Software Foundation or elsewhere at kuruwan's discretion."
